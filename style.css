@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Figtree';
-    src: url("assets/fonts/Figtree-VariableFont_wght.ttf") format("ttf");
+    src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("ttf");
     font-weight: 300 900;
 }
 
@@ -60,6 +60,7 @@ h1,
 }
 
 button {
+    font-family: inherit;
     background-color: var(--yellow);
     padding: 4px 12px;
     border-radius: 4px;
