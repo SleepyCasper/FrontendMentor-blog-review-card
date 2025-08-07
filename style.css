@@ -46,9 +46,9 @@ a {
     min-height: 32.625rem;
     padding: 1.5rem;
     gap: 1.5rem;
+    border: solid var(--gray950) 1px;
     border-radius: 20px;
-    box-shadow: 8px 8px 0;
-    
+    box-shadow: 8px 8px 0
 }
 
 
